@@ -1,0 +1,5 @@
+This version uses a runner (see MRJob documentation). You would just run this with:
+
+python mr-pi-driver.py
+
+The lines that determine various parameters (local vs amazon emr, input file, etc. are in the driver.
